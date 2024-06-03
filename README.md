@@ -1,0 +1,1 @@
+My name is Moyad Alshlool. I hold a BSc in Mathematics and an MSc in Data Science. I have a strong interest in Machine Learning (ML), Data Processing (DP), Data Envelopment Analysis (DEA), probability, mathematical modeling, and statistics.
